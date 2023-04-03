@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/BernieLAM/express-based-API-car#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0"
   }
 }
