@@ -1,32 +1,20 @@
 [
   {
-    "model": "Mini Electric",
-    "seats": 4,
-    "topSpeed": "93 MPH",
-    "price(GBP)": 29000
+    "model": "Electric",
+    "owner_email": "e@e.e",
+    "price(GBP)": 29000,
+    "car_age": 4
   },
   {
     "model": "3-Door Hatch",
-    "seats": 4,
-    "topSpeed": "130 MPH",
-    "price(GBP)": 22565
+    "owner_email": "door@e.e",
+    "price(GBP)": 22565,
+    "car_age": 4
   },
   {
     "model": "5-Door Hatch",
-    "seats": 5,
-    "topSpeed": "129 MPH",
-    "price(GBP)": 23225
-  },
-  {
-    "model": "Countryman",
-    "seats": 5,
-    "topSpeed": "127 MPH",
-    "price(GBP)": 28815
-  },
-  {
-    "model": "Special Edition",
-    "seats": 4,
-    "topSpeed": "130 MPH",
-    "price(GBP)": 26160
+    "owner_email": "hatch@e.e",
+    "price(GBP)": 30000,
+    "car_age": 4
   }
 ]
